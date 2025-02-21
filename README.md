@@ -15,7 +15,7 @@ This project automates the tedious task of filling certificates by integrating a
 - NumPy
 - Pandas
 - Pillow (PIL)
-- 2. **Font Setup**:
+- **Font Setup**:
    - Ensure system fonts for `NotoSansDevanagari`, `Mangal`, `Arial`, and `DejaVu Sans` are installed.
    - For non-Latin scripts, download fonts from [Google Fonts](https://fonts.google.com/) and place them in your system's font directory.
 
