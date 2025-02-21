@@ -6,3 +6,5 @@ tempCodeRunnerFile.py
 /results/
 /.vscode/
 /__pycache__/
+.gitigmore
+text_extractor.py 
